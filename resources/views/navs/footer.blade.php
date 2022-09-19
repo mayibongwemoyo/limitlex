@@ -23,12 +23,11 @@
 							<div class="menu-widget">
 								<h3 class="widget-title">Our Services</h3>
 								<ul>
-									<li><a href="">Sourcing</a></li>
-									<li><a href="">Air & Sea Freight Forwarding<</a></li>
-									<li><a href="">Supply Chain Services</a></li>
-									<li><a href="">Warehousing</a></li>
-									<li><a href="">Packing & Removal</a></li>
-									<li><a href="">Land Transportation</a></li>
+                                    <li><a href="service">Air Freight </a></li>
+                                    <li><a href="seafreight">Sea Freight </a></li>
+                                    <li><a href="landfreight">Land Freight </a></li>
+                                    <li><a href="warehousing">Warehousing </a></li>
+                                    <li><a href="procurement">Procurement and Supply Chain Management</a></li>
 								</ul>
 							</div>
 						</div>
@@ -66,7 +65,7 @@
 				</div>
 			</div>
 			<div class="ft-footer-copywrite-1 text-center">
-				<span>Developed by Mayibongwe M for OVERT Technologies.Copyright @ 2021 Logistics.All Rights Reserved</span>
+				<span>Developed by LevierSoft Solutions.Copyright @leviersoftsolutions.com 2022.All Rights Reserved.</span>
 			</div>
 		</div>
 	</footer>

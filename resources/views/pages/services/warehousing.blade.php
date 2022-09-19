@@ -1,13 +1,13 @@
 @extends('app')
 @section('content')
     <!-- Start of Breadcrumb section
-     ============================================= -->
+                 ============================================= -->
     <section id="ft-breadcrumb" class="ft-breadcrumb-section position-relative" data-background="assets/img/bg/bread-bg.jpg">
         <span class="background_overlay"></span>
         <span class="design-shape position-absolute"><img src="assets/img/shape/tmd-sh1.png" alt=""></span>
         <div class="container">
             <div class="ft-breadcrumb-content headline text-center position-relative">
-                <h2>Air Freight</h2>
+                <h2>Warehousing</h2>
                 <div class="ft-breadcrumb-list ul-li">
                     <ul>
                         <li><a href="#">Home</a></li>
@@ -18,10 +18,10 @@
         </div>
     </section>
     <!-- End of Breadcrumb section
-     ============================================= -->
+                 ============================================= -->
 
     <!-- Start of Service details section
-     ============================================= -->
+                 ============================================= -->
     <section id="ft-service-details" class="ft-service-details-section page-padding">
         <div class="container">
             <div class="ft-service-details-content">
@@ -37,7 +37,6 @@
                                         <li><a href="landfreight">Land Freight </a></li>
                                         <li><a href="warehousing">Warehousing </a></li>
                                         <li><a href="procurement">Procurement and Supply Chain Management</a></li>
-
 
                                     </ul>
                                 </div>
@@ -71,32 +70,27 @@
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="ft-service-details-img">
-                                            <img src="assets/img/service/sd1.jpg" alt="">
+                                            <img src="assets/img/service/house4.png" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="ft-service-details-img">
-                                            <img src="assets/img/service/sd2.jpg" alt="">
+                                            <img src="assets/img/service/house2.png" alt="">
                                         </div>
                                         <div class="ft-service-details-img">
-                                            <img src="assets/img/service/sd3.jpg" alt="">
+                                            <img src="assets/img/service/house1.png" alt="">
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="ft-service-details-text-wrapper">
                                 <h3>Overview</h3>
-                                <p>We offer a fast and reliable solution for every circumstance your business may require
-                                    through a perfect air freight solution to match your needs. Our services enable a smooth
-                                    process of handling of goods from suppliers across the globe to your company. We assist
-                                    with sourcing and procurement, collection or delivery of your goods to our warehouses,
-                                    and have them packed appropriately before loading them on the plane. On arrival at each
-                                    destination, our local team handles all paperwork and customs requirements.
-                                    Mistakes made in shipping processes can be costly and delay goods getting to the places
-                                    they need to go. The wealth of knowledge and expertise our team members have on the
-                                    process of importing and exporting is invaluable to companies and saves them both time
-                                    and money.
-                                    We deliver custom-made solutions to solve your business challenges and needs.
+                                <p>We have facilities ready to handle your supply chain, whether at origin or destination.
+                                    By combining shipping with warehousing and distribution, our customers benefit from a
+                                    seamless end-to-end solution. This reduces complexity, giving you speed, control and
+                                    visibility.
+
+
                                 </p>
                                 <div class="ft-service-details-counter-wrapper">
                                     <div class="row">
@@ -155,5 +149,5 @@
         </div>
     </section>
     <!-- End of Service details section
-     ============================================= -->
+                 ============================================= -->
 @endsection

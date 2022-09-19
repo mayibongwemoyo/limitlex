@@ -10,7 +10,7 @@
 					<div class="ft-header-menu-top-cta position-relative">
 						<div class="ft-header-top ul-li">
 							<ul>
-								<li><i class="fal fa-envelope"></i>imitlexlogistics@gmail.com</li>
+								<li><i class="fal fa-envelope"></i>limitlexlogistics@gmail.com</li>
 								<li><i class="fal fa-map-marker-alt"></i>Stand 4974
                                     Lezard Avenue
                                     Milton Park, HRE</li>
@@ -29,14 +29,14 @@
 										<a href="service">Service</a>
 
 									</li>
-									<li class="dropdown">
+									{{-- <li class="dropdown">
 										<a href="projects">Project</a>
-									</li>
+									</li> --}}
 									<li class="dropdown">
 										<a href="contact">Contact Us</a>
 									</li>
 									<li class="dropdown">
-										<a href="faq">FAQ</a>
+										<a href="faq">FAQs</a>
 										{{-- <ul class="dropdown-menu clearfix">
 											<li><a href="team.html">Team Page </a></li>
 											<li><a href="team-single.html">Team  Details </a></li>

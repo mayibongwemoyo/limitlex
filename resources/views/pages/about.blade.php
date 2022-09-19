@@ -5,7 +5,7 @@
 	============================================= -->
 	<section id="ft-breadcrumb" class="ft-breadcrumb-section position-relative" data-background="assets/img/bg/bread-bg.jpg">
 		<span class="background_overlay"></span>
-		<span class="design-shape position-absolute"><img src="assets/img/shape/tmd-sh.png" alt=""></span>
+		<span class="design-shape position-absolute"><img src="assets/img/shape/tmd-sh1.png" alt=""></span>
 		<div class="container">
 			<div class="ft-breadcrumb-content headline text-center position-relative">
 				<h2>About</h2>
@@ -235,7 +235,7 @@
 <!-- End of Video section
 	============================================= -->
 
-<!-- Start of Testimonial section
+{{-- <!-- Start of Testimonial section
 	============================================= -->
 	<section id="ft-testimonial-2" class="ft-testimonial-section-2">
 		<div class="container">
@@ -400,7 +400,7 @@
 			</div>
 		</div>
 	</section>
-<!-- End of Testimonial section
-	============================================= -->
+<!-- End of Testimonial section --}}
+	{{-- ============================================= --> --}}
 
     @endsection

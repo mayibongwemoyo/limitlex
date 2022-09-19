@@ -5,7 +5,7 @@
 	============================================= -->
 	<section id="ft-breadcrumb" class="ft-breadcrumb-section position-relative" data-background="assets/img/bg/bread-bg.jpg">
 		<span class="background_overlay"></span>
-		<span class="design-shape position-absolute"><img src="assets/img/shape/tmd-sh.png" alt=""></span>
+		<span class="design-shape position-absolute"><img src="assets/img/shape/tmd-sh1.png" alt=""></span>
 		<div class="container">
 			<div class="ft-breadcrumb-content headline text-center position-relative">
 				<h2>Ocean Feright</h2>

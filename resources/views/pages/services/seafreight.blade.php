@@ -4,7 +4,7 @@
          ============================================= -->
     <section id="ft-breadcrumb" class="ft-breadcrumb-section position-relative" data-background="assets/img/bg/bread-bg.jpg">
         <span class="background_overlay"></span>
-        <span class="design-shape position-absolute"><img src="assets/img/shape/tmd-sh.png" alt=""></span>
+        <span class="design-shape position-absolute"><img src="assets/img/shape/tmd-sh1.png" alt=""></span>
         <div class="container">
             <div class="ft-breadcrumb-content headline text-center position-relative">
                 <h2>Sea Freight</h2>
@@ -35,10 +35,9 @@
                                         <li><a href="service">Air Freight </a></li>
                                         <li><a href="seafreight">Sea Freight </a></li>
                                         <li><a href="landfreight">Land Freight </a></li>
-                                        <li><a href="service-single.html">Train Freight </a></li>
-                                        <li><a href="service-single.html">Thaird Party Logistics </a></li>
-                                        <li><a href="service-single.html">Air Freight </a></li>
-                                        <li><a href="service-single.html">Air Freight </a></li>
+                                        <li><a href="warehousing">Warehousing </a></li>
+                                        <li><a href="procurement">Procurement and Supply Chain Management</a></li>
+
                                     </ul>
                                 </div>
                             </div>
@@ -71,15 +70,15 @@
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="ft-service-details-img">
-                                            <img src="assets/img/service/sd1.jpg" alt="">
+                                            <img src="assets/img/service/ship.png" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="ft-service-details-img">
-                                            <img src="assets/img/service/sd2.jpg" alt="">
+                                            <img src="assets/img/service/ship2.png" alt="">
                                         </div>
                                         <div class="ft-service-details-img">
-                                            <img src="assets/img/service/sd3.jpg" alt="">
+                                            <img src="assets/img/service/ship3.png" alt="">
                                         </div>
                                     </div>
                                 </div>

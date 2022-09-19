@@ -43,7 +43,7 @@
                         data-frame_0="x:175%;o:1;" data-frame_0_mask="u:t;x:-100%;"
                         data-frame_1="e:power3.out;st:1500;sp:1000;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;"
                         data-frame_hover="bgc:#ea1e00;boc:#ea1e00;bor:3px,3px,3px,3px;bos:solid;bow:2px,2px,2px,2px;sp:100;e:power1.inOut;bri:120%;"
-                        style="z-index:12;background-color:#00044b;font-family:'Poppins';">About Us
+                        style="z-index:12;background-color:#1338be;font-family:'Poppins';">About Us
                     </a>
                     <a id="slider-27-slide-70-layer-6" class="rs-layer rev-btn" href="service" target="_blank"
                         rel="noopener" data-type="button" data-rsp_ch="on"
@@ -55,7 +55,7 @@
                         data-frame_0="x:-175%;o:1;" data-frame_0_mask="u:t;x:100%;"
                         data-frame_1="e:power3.out;st:1200;sp:1000;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;"
                         data-frame_hover="bgc:#ea1e00;boc:#ea1e00;bor:3px,3px,3px,3px;bos:solid;bow:2px,2px,2px,2px;sp:100;e:power1.inOut;bri:120%;"
-                        style="z-index:11;background-color:#00044b;font-family:'Poppins';">Our Service
+                        style="z-index:11;background-color:#1338be;font-family:'Poppins';">Our Service
                     </a>
                 </rs-slide>
                 <rs-slide style="position: absolute;" data-key="rs-72" data-title="Slide"
@@ -96,7 +96,7 @@
                         data-frame_0="x:175%;o:1;" data-frame_0_mask="u:t;x:-100%;"
                         data-frame_1="e:power3.out;st:1500;sp:1000;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;"
                         data-frame_hover="bgc:#ea1e00;boc:#ea1e00;bor:3px,3px,3px,3px;bos:solid;bow:2px,2px,2px,2px;sp:100;e:power1.inOut;bri:120%;"
-                        style="z-index:12;background-color:#00044b;font-family:'Poppins';">About Us
+                        style="z-index:12;background-color:#1338be;font-family:'Poppins';">About Us
                     </a>
                     <a id="slider-27-slide-72-layer-6" class="rs-layer rev-btn" href="service" target="_blank"
                         rel="noopener" data-type="button" data-rsp_ch="on"
@@ -108,7 +108,7 @@
                         data-frame_0="x:-175%;o:1;" data-frame_0_mask="u:t;x:100%;"
                         data-frame_1="e:power3.out;st:1200;sp:1000;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;"
                         data-frame_hover="bgc:#ea1e00;boc:#ea1e00;bor:3px,3px,3px,3px;bos:solid;bow:2px,2px,2px,2px;sp:100;e:power1.inOut;bri:120%;"
-                        style="z-index:11;background-color:#00044b;font-family:'Poppins';">Our Service
+                        style="z-index:11;background-color:#1338be;font-family:'Poppins';">Our Service
                     </a>
                 </rs-slide>
                 <rs-slide style="position: absolute;" data-key="rs-73" data-title="Slide"
@@ -127,16 +127,14 @@
                         data-text="w:normal;s:72,59,44,40;l:80,66,50,40;fw:700;" data-frame_0="o:1;"
                         data-frame_0_chars="d:5;o:0;rX:-90deg;oZ:-50;" data-frame_1="sp:1750;"
                         data-frame_1_chars="e:power4.inOut;d:10;oZ:-50;" data-frame_999="o:0;st:w;"
-                        style="z-index:9;font-family:'Poppins';">We Are Global<br />
-                        Logistic Provider
+                        style="z-index:9;font-family:'Poppins';">We Go Beyond<br />
+                        Cargo
                     </rs-layer>
                     <rs-layer id="slider-27-slide-73-layer-2" data-type="text" data-rsp_ch="on"
                         data-xy="xo:15px,12px,9px,5px;yo:535px,445px,338px,219px;"
                         data-text="w:normal;s:18,14,16,16;l:25,20,20,20;fw:500;" data-frame_0="x:-100%;"
                         data-frame_0_mask="u:t;" data-frame_1="e:power4.inOut;st:1000;sp:1300;" data-frame_1_mask="u:t;"
-                        data-frame_999="o:0;st:w;" style="z-index:10;font-family:'Roboto';">Lpsum dolor sit amet,
-                        consectetur adipiscing elit, sed do eius-<br />
-                        mod tempor ut labore et dolore magna aliqua.
+                        data-frame_999="o:0;st:w;" style="z-index:10;font-family:'Roboto';">We ship, take care of customs and deliver goods of all sizes via air, sea,<br> and land transportation. In addition to that, we also offer warehouse and storage services.
                     </rs-layer>
                     <a id="slider-27-slide-73-layer-5" class="rs-layer rev-btn" href="about" target="_blank"
                         rel="noopener" data-type="button" data-rsp_ch="on"
@@ -148,7 +146,7 @@
                         data-frame_0="x:175%;o:1;" data-frame_0_mask="u:t;x:-100%;"
                         data-frame_1="e:power3.out;st:1500;sp:1000;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;"
                         data-frame_hover="bgc:#ea1e00;boc:#ea1e00;bor:3px,3px,3px,3px;bos:solid;bow:2px,2px,2px,2px;sp:100;e:power1.inOut;bri:120%;"
-                        style="z-index:12;background-color:#00044b;font-family:'Poppins';">About Us
+                        style="z-index:12;background-color:#1338be;font-family:'Poppins';">About Us
                     </a>
                     <a id="slider-27-slide-73-layer-6" class="rs-layer rev-btn" href="service" target="_blank"
                         rel="noopener" data-type="button" data-rsp_ch="on"
@@ -160,7 +158,7 @@
                         data-frame_0="x:-175%;o:1;" data-frame_0_mask="u:t;x:100%;"
                         data-frame_1="e:power3.out;st:1200;sp:1000;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;"
                         data-frame_hover="bgc:#ea1e00;boc:#ea1e00;bor:3px,3px,3px,3px;bos:solid;bow:2px,2px,2px,2px;sp:100;e:power1.inOut;bri:120%;"
-                        style="z-index:11;background-color:#00044b;font-family:'Poppins';">Our Service
+                        style="z-index:11;background-color:#1338be;font-family:'Poppins';">Our Service
                     </a>
                 </rs-slide>
             </rs-slides>
@@ -489,8 +487,8 @@
                                     </div>
                                     <div class="ft-why-choose-feature-text headline pera-content">
                                         <h3>Fast Transportion Service</h3>
-                                        <p>Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor labore et
-                                            dolore magna aliqua.</p>
+                                        {{-- <p>Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor labore et
+                                            dolore magna aliqua.</p> --}}
                                     </div>
                                 </div>
                                 <div class="ft-why-choose-feature-item d-flex align-items-center wow fadeInUp"
@@ -501,8 +499,8 @@
                                     </div>
                                     <div class="ft-why-choose-feature-text headline pera-content">
                                         <h3>Safe and Reliable</h3>
-                                        <p>Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor labore et
-                                            dolore magna aliqua.</p>
+                                        {{-- <p>Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor labore et
+                                            dolore magna aliqua.</p> --}}
                                     </div>
                                 </div>
                                 <div class="ft-why-choose-feature-item d-flex align-items-center wow fadeInUp"
@@ -513,8 +511,8 @@
                                     </div>
                                     <div class="ft-why-choose-feature-text headline pera-content">
                                         <h3>Worldwide Shipping</h3>
-                                        <p>Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor labore et
-                                            dolore magna aliqua.</p>
+                                        {{-- <p>Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor labore et
+                                            dolore magna aliqua.</p> --}}
                                     </div>
                                 </div>
                             </div>
@@ -553,7 +551,7 @@
                             <span class="hover-shape position-absolute"><img src="assets/img/shape/tm-sh.png"
                                     alt=""></span>
                             <div class="ft-team-inner-item-img">
-                                <img src="assets/img/team/tm1.jpg" alt="">
+                                <img src="assets/img/team/samantha2.png" alt="">
                             </div>
                             <div class="ft-team-inner-item-text headline">
                                 <h3><a href="#">Samantha Moyo</a></h3>
@@ -566,7 +564,7 @@
                             <span class="hover-shape position-absolute"><img src="assets/img/shape/tm-sh.png"
                                     alt=""></span>
                             <div class="ft-team-inner-item-img">
-                                <img src="assets/img/team/angela.jpg" alt="">
+                                <img src="assets/img/team/angela2.png" alt="">
                             </div>
                             <div class="ft-team-inner-item-text headline">
                                 <h3><a href="#">Angela Mulingwa</a></h3>
@@ -579,7 +577,7 @@
                             <span class="hover-shape position-absolute"><img src="assets/img/shape/tm-sh.png"
                                     alt=""></span>
                             <div class="ft-team-inner-item-img">
-                                <img src="assets/img/team/tawanda.png" alt="">
+                                <img src="assets/img/team/tawanda2.png" alt="">
                             </div>
                             <div class="ft-team-inner-item-text headline">
                                 <h3><a href="team-single.html">Tawanda Chindito</a></h3>
@@ -688,7 +686,7 @@
 
     <!-- Start of Testimonial section
                                  ============================================= -->
-    <section id="ft-testimonial" class="ft-testimonial-section position-relative">
+    {{-- <section id="ft-testimonial" class="ft-testimonial-section position-relative">
         <span class="ft-testimonial-map text-center position-absolute"><img src="assets/img/shape/map.png"
                 alt=""></span>
         <div class="container">
@@ -808,7 +806,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- End of Testimonial section
                                  ============================================= -->
 
@@ -821,8 +819,8 @@
                     <span class="sub-title">Project Estimating</span>
                     <h2>Request A Quick Quote
                     </h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod r incididunt ut labore et
-                        dolore magna aliqua. </p>
+                    {{-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod r incididunt ut labore et
+                        dolore magna aliqua. </p> --}}
                 </div>
                 <div class="ft-contact-form-wrapper">
                     <form action="contact">
