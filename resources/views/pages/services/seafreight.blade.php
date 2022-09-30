@@ -41,7 +41,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="ft-service-sidebar-widget headline ul-li-block">
+                            {{-- <div class="ft-service-sidebar-widget headline ul-li-block">
                                 <div class="service-form-widget">
                                     <h3 class="widget-title text-uppercase">24/7 ONLINE SUPPORT</h3>
                                     <p>Get immediate quotes & book shipment.</p>
@@ -52,8 +52,8 @@
                                         <button>Contact Now</button>
                                     </form>
                                 </div>
-                            </div>
-                            <div class="ft-service-sidebar-widget headline ul-li-block">
+                            </div> --}}
+                            {{-- <div class="ft-service-sidebar-widget headline ul-li-block">
                                 <div class="service-download-widget">
                                     <h3 class="widget-title">Download Now</h3>
                                     <ul>
@@ -61,7 +61,7 @@
                                         <li><a href="#">Compnay Report -2021 <i class="far fa-file-pdf"></i></a></li>
                                     </ul>
                                 </div>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                     <div class="col-lg-8">

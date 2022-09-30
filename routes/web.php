@@ -34,3 +34,7 @@ Route::post('/contact-form', [App\Http\Controllers\ContactController::class, 'st
 
 Route::get('send-email',[SendEmailController::class,'index']);
 
+
+
+Route::get('example', function(){ return view('emails.demoMail'); })->name('example');
+

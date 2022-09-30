@@ -168,7 +168,7 @@
                                  ============================================= -->
 
     <!-- Start of Booking form section
-                                 ============================================= -->
+                                 {{-- ============================================= -->
     <section id="ft-booking-form" class="ft-booking-form-section">
         <div class="container">
             <div class="ft-booking-form-content position-relative">
@@ -187,7 +187,7 @@
                 </form>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- End of Booking form section
                                  ============================================= -->
 

@@ -1,11 +1,11 @@
 <?php
 
 namespace App\Http\Controllers;
-
+use Illuminate\Support\Facades\Mail;
 use Illuminate\Http\Request;
-use Mail;
+// use Mail;
 use App\Mail\NotifyMail;
-//use Illuminate\Support\Facades\Mail as FacadesMail;
+// use Illuminate\Support\Facades\Mail as FacadesMail;
 
 class SendEmailController extends Controller
 {

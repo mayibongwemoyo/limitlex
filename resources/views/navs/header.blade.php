@@ -64,7 +64,7 @@
 									<i class="fal fa-times"></i>
 								</div>
 								<div class="m-brand-logo">
-									<a href="%21.html#"><img src="assets/img/logo/logo4.png" alt=""></a>
+									<a href="%21.html#"><img src="assets/img/logo/logo-whiteog.png" alt=""></a>
 								</div>
 								<nav class="mobile-main-navigation  clearfix ul-li">
 									<ul id="m-main-nav" class="navbar-nav text-capitalize clearfix">
@@ -80,9 +80,9 @@
 											<a href="service">Service</a>
 
 										</li>
-										<li class="dropdown">
+										{{-- <li class="dropdown">
 											<a href="projects">Projects</a>
-										</li>
+										</li> --}}
 										<li class="dropdown">
 											<a href="contact">Contact Us</a>
 										</li>
