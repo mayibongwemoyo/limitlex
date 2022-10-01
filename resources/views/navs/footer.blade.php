@@ -65,7 +65,7 @@
 				</div>
 			</div>
 			<div class="ft-footer-copywrite-1 text-center">
-				<span>Developed by LevierSoft Solutions.Copyright @leviersoftsolutions.com 2022.All Rights Reserved.</span>
+				<span>Developed by <a href="https://leviersoft.com" target="_blank">LevierSoft Solutions</a>. Copyright 2022.</span>
 			</div>
 		</div>
 	</footer>
