@@ -1,15 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from html.themexriver.com/fastrans/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 23 Jul 2022 19:40:10 GMT -->
-
 <head>
-    <!-- <meta charset="UTF-8">
- <title>Home Page 2</title>
- <meta name="description" content="FasTrans - Logistics & Delivery Company HTML template">
+<meta charset="UTF-8">
+ <title>LiMitleX Logistics</title>
+ <meta name="description" content="LiMitleX Logistics - Logistics & Delivery Company">
  <meta name="keywords" content="cargo, clean, contractor, corporate, freight, industry, localization, logistics, page builder, shipment, transport, transportation, truck, trucking">
- <meta name="author" content="Themexriver">
- <link rel="shortcut icon" href="assets/img/logo/ficon.png" type="image/x-icon">
+ <meta name="author" content="LevierSoft Solutions">
+ <link rel="shortcut icon" href="assets/img/logo/logo-white.png" type="image/x-icon">
  <!-- Mobile Specific Meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -57,4 +55,4 @@
 </body>
 
 <!-- Mirrored from html.themexriver.com/fastrans/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 23 Jul 2022 19:41:47 GMT -->
-</html>		
+</html>
